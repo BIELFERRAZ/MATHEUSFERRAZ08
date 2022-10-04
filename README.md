@@ -23,6 +23,5 @@ Tecnologias que uso no meu dia
  </div>
  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusferraz08&layout=compact)](https://github.com/MATHEUSFERRAZ08/github-readme-stats)
 
 
