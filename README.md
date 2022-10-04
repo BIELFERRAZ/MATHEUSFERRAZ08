@@ -1,4 +1,4 @@
-Olá! Eu sou Biel Ferraz
+Olá! Eu sou Biel Ferraz (ANO DE COPA DO MUNDO)
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__b.i.e.l__10/)
 
