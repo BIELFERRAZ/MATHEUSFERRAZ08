@@ -4,9 +4,6 @@ Olá! Eu sou Biel Ferraz
 
 [![Site para baixar ISOS](https://img.shields.io/badge/ISOS-3A33D1?style=for-the-badge&logo=ISOS&logoColor=white)](https://isosparatecnicos.blogspot.com/)
 
-
-![MATHEUSFERRAZ08 GitHub stats](https://github-readme-stats.vercel.app/api?username=MATHEUSFERRAZ08&show_icons=true&theme=dracula)
-
 ##Tecnologias que uso no meu dia
 
 <div  style="display: inline_block"><br/>
@@ -23,6 +20,7 @@ Olá! Eu sou Biel Ferraz
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
  </div>
+ 
 
  
 
