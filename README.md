@@ -4,7 +4,7 @@ Olá! Eu sou Biel Ferraz
 
 [![Site para baixar ISOS](https://img.shields.io/badge/ISOS-3A33D1?style=for-the-badge&logo=ISOS&logoColor=white)](https://isosparatecnicos.blogspot.com/)
 
-##Tecnologias que uso no meu dia
+Tecnologias que uso no meu dia
 
 <div  style="display: inline_block"><br/>
 
