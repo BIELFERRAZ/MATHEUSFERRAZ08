@@ -4,6 +4,8 @@ Olá! Eu sou Biel Ferraz (ANO DE COPA DO MUNDO)
 
 [![Site para baixar ISOS](https://img.shields.io/badge/Link_Para_Baixar_ISOS-3A33D1?style=for-the-badge&logo=ISOS&logoColor=white)](https://isosparatecnicos.blogspot.com/)
 
+[![Site para baixar o Pacote Office](https://img.shields.io/badge/Link_Para_Baixar_o_Pacote_Office-3A33D1?style=for-the-badge&logo=ISOS&logoColor=white)](https://mega.nz/file/DQAGVZjQ#gbbu6ygpQYenxw1mDNZ0J67QVZG9jwt1qBlC2JUhOVo)
+
 
 Tecnologias que uso no meu dia
 
