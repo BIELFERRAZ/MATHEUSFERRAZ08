@@ -7,6 +7,8 @@ Olá! Eu sou Biel Ferraz (ANO DE COPA DO MUNDO)
 [![Site para baixar o Pacote Office](https://img.shields.io/badge/Link_Para_Baixar_o_Pacote_Office-3A33D1?style=for-the-badge&logo=ISOS&logoColor=white)](https://mega.nz/file/DQAGVZjQ#gbbu6ygpQYenxw1mDNZ0J67QVZG9jwt1qBlC2JUhOVo)
 
 ![MATHEUSFERRAZ08 GitHub stats](https://github-readme-stats.vercel.app/api?username=MATHEUSFERRAZ08&show_icons=true&theme=dracula)
+
+
 Tecnologias que uso no meu dia
 
 
