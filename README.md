@@ -8,6 +8,9 @@ Olá! Eu sou Biel Ferraz (ANO DE COPA DO MUNDO)
 
 ![MATHEUSFERRAZ08 GitHub stats](https://github-readme-stats.vercel.app/api?username=MATHEUSFERRAZ08&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MATHEUSFERRAZ08s&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/MATHEUSFERRAZ08/github-readme-stats)
+          
+          
 
 Tecnologias que uso no meu dia
 
