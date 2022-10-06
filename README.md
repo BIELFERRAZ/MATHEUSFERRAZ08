@@ -2,6 +2,10 @@ Olá! Eu sou Biel Ferraz (ANO DE COPA DO MUNDO)
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__b.i.e.l__10/)
 
+
+[![Blog](https://img.shields.io/badge/twitter-E4405F?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/M_Biel_Ferraz)
+
+
 [![Site para baixar ISOS](https://img.shields.io/badge/Link_Para_Baixar_ISOS-3A33D1?style=for-the-badge&logo=ISOS&logoColor=white)](https://isosparatecnicos.blogspot.com/)
 
 [![Site para baixar o Pacote Office](https://img.shields.io/badge/Link_Para_Baixar_o_Pacote_Office-3A33D1?style=for-the-badge&logo=ISOS&logoColor=white)](https://mega.nz/file/DQAGVZjQ#gbbu6ygpQYenxw1mDNZ0J67QVZG9jwt1qBlC2JUhOVo)
